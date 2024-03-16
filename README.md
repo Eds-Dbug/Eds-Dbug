@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
@@ -9,9 +7,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://girodilento.com/wp-content/uploads/2020/07/TCX_ADV_Pro_gallery01-1024x682.jpg"  />
-</div>
+<img align="right" height="200" src="https://girodilento.com/wp-content/uploads/2020/07/TCX_ADV_Pro_gallery01-1024x682.jpg"  />
 
 ###
 
@@ -114,8 +110,8 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Eds-Dbug&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eds-Dbug&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=10&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eds-Dbug&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eds-Dbug&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=graywhite&hide_border=false&order=2" height="170" alt="languages graph"  />
 </div>
 
 ###
