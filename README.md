@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">- Learning Vue<br>- Just got a certificate for Python!</p>
+<p align="left">📜 Learning Vue<br>🏆 Just got a certificate for Python!</p>
 
 ###
 
