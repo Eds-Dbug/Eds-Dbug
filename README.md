@@ -1,5 +1,3 @@
-<br>
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
@@ -9,9 +7,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://girodilento.com/wp-content/uploads/2020/07/TCX_ADV_Pro_gallery01-1024x682.jpg"  />
+<img align="right" height="250" src="https://girodilento.com/wp-content/uploads/2020/07/TCX_ADV_Pro_gallery01-1024x682.jpg"  />
 
 ###
 
@@ -22,6 +18,8 @@
 <p align="left">Hello my name is Edgar Leung I am Web Developer passionate about crafting impactful solutions in UI and back-end development. Formerly at Sofvie Inc, specializing in applications for blue-collar workers. Currently volunteering, contributing to open-source, and serving part-time in the Canadian Army. Experienced in JavaScript, React.js, Node.js, and more. Outside of coding, you'll find me hiking, cycling (I once rode over 1100km around Lake Ontario!), and embracing the outdoors for inspiration. Let's collaborate!"</p>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">📅 Hobbies</h2>
 
