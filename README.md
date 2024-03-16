@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="250" src="https://girodilento.com/wp-content/uploads/2020/07/TCX_ADV_Pro_gallery01-1024x682.jpg"  />
+<img align="right" height="200" src="https://girodilento.com/wp-content/uploads/2020/07/TCX_ADV_Pro_gallery01-1024x682.jpg"  />
 
 ###
 
