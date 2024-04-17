@@ -3,7 +3,7 @@
 
   <!-- Projects Link -->
   <div>
-    👨‍💻 All of my projects are available at <a href="http://Edgar-Leung.com" target="_blank">Edgar-Leung.com</a>
+    👨‍💻 My profile Website @ <a href="http://Edgar-Leung.com" target="_blank">Edgar-Leung.com</a>
   </div>
 
   <!-- Email Address -->
