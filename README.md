@@ -26,6 +26,13 @@ Similarly, at Sofvie, I did not start with a background in the HVAC field. Yet, 
 
 These experiences underscore my capability to quickly integrate into new environments, learn essential aspects with little oversight, and produce high-quality work. Skilled in JavaScript, React.js, Node.js, and more, I am eager to bring my adaptability, problem-solving skills, and collaborative spirit to your projects.
 
+<details>
+<summary><strong>Coding Journey</strong></summary>
+
+My journey into coding started during my high school days in robotics. Despite embarking on thrilling road adventures and exploring various opportunities, the persistent urge to code never left me. Coming back to my coding journey, I enhanced my skills at Lighthouse Labs, where I learned MVC and Full Stack development. Through self-directed learning, I have also added TypeScript, React, and Python to my skill set. Coming from a Java background, I am now diving deeper into Spring Boot to expand my full-stack capabilities further. Combining my experiences and expertise, I'm dedicated to creating innovative solutions that push boundaries and drive technological advancement.
+
+</details>
+
 </details>
 
 ###
