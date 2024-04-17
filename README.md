@@ -22,15 +22,9 @@
     <span>LinkedIn</span>
   </div>
 
-  <!-- Discord (No Direct Link) -->
-  <div>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-    <span>EdgarLeung#1234</span>
-  </div>
-
   <!-- Slack -->
   <div>
-    <a href="https://slack.com" target="_blank">
+    <a href="[https://slack.com](https://internetarchive.slack.com/team/U04CQHU6TNH)" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo" />
     </a>
     <span>Slack</span>
