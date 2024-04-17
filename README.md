@@ -15,7 +15,18 @@
 
 ###
 
-<p align="left">Hello my name is Edgar Leung I am Web Developer passionate about crafting impactful solutions in UI and back-end development. Formerly at Sofvie Inc, specializing in applications for blue-collar workers. Currently volunteering, contributing to open-source, and serving part-time in the Canadian Army. Experienced in JavaScript, React.js, Node.js, and more. Outside of coding, you'll find me hiking, cycling (I once rode over 1100km around Lake Ontario!), and embracing the outdoors for inspiration. Let's collaborate!"</p>
+<p align="left">Hello, my name is Edgar Leung. I am a Web Developer based in Toronto, Ontario, passionate about crafting impactful solutions in both UI and back-end development. Formerly at Sofvie Inc, I specialized in applications for blue-collar workers in the HVAC industry. Currently, I am volunteering, contributing to open-source projects, and serving part-time in the Canadian Army. Outside of coding, you'll find me embracing the outdoors through hiking and cycling—I once rode over 1100km around Lake Ontario! My experiences inspire my work and drive my commitment to building better web environments. Let's collaborate!
+</p>
+<details>
+<summary><strong>Show More</strong></summary>
+
+Having a strong ability to learn quickly and adapt with minimal guidance, I have successfully tackled new challenges throughout my career. At Open Library, despite knowing the MVC pattern, I delved into their specific MVC architecture through self-directed tutorials and practical involvement in projects. This proactive approach allowed me to efficiently contribute to their merge queue project while managing a second job. My communication with lead developers and my commitment to solving intricate problems were crucial in my rapid adaptation and effective contribution.
+
+Similarly, at Sofvie, I did not start with a background in the HVAC field. Yet, I rapidly acquired in-depth knowledge about the HVAC industry, including understanding complex aspects like refrigerant specifications. I achieved this through meticulous review of design documents and engaging directly with technical descriptions in trade biographies, enabling me to develop applications that were both functional and intuitive for end-users.
+
+These experiences underscore my capability to quickly integrate into new environments, learn essential aspects with little oversight, and produce high-quality work. Skilled in JavaScript, React.js, Node.js, and more, I am eager to bring my adaptability, problem-solving skills, and collaborative spirit to your projects.
+
+</details>
 
 ###
 
