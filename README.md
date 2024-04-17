@@ -1,7 +1,31 @@
 <div align="left">
-<a href="https://linkedin.com/in/edgar-leung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edgar-leung" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/edsdbug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="edsdbug" height="30" width="40" /></a>
+  <!-- Projects Link -->
+  👨‍💻 All of my projects are available at <a href="http://Edgar-Leung.com" target="_blank">Edgar-Leung.com</a>
+  <br>
+  
+  <!-- Email Address -->
+  <a href="mailto:edsDbug@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/edgar-leung" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+
+  <!-- Discord (No Direct Link) -->
+  <label>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+    EdgarLeung#1234
+  </label>
+
+
+  <!-- Slack -->
+  <a href="https://slack.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo" />
+  </a>
 </div>
+
 
 ###
 
