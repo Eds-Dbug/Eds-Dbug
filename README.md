@@ -1,30 +1,42 @@
 <div align="left">
-  <!-- Projects Link -->
-  👨‍💻 All of my projects are available at <a href="http://Edgar-Leung.com" target="_blank">Edgar-Leung.com</a>
-  <br>
-  
-  <!-- Email Address -->
-  <a href="mailto:edsDbug@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
+  <h3>Contact Me:</h3>
 
+  <!-- Projects Link -->
+  <div>
+    👨‍💻 All of my projects are available at <a href="http://Edgar-Leung.com" target="_blank">Edgar-Leung.com</a>
+  </div>
+
+  <!-- Email Address -->
+  <div>
+    <a href="mailto:edsDbug@gmail.com">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    </a>
+    <span>Email Me</span>
+  </div>
+  
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/edgar-leung" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
+  <div>
+    <a href="https://linkedin.com/in/edgar-leung" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    </a>
+    <span>LinkedIn</span>
+  </div>
 
   <!-- Discord (No Direct Link) -->
-  <label>
+  <div>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-    EdgarLeung#1234
-  </label>
-
+    <span>EdgarLeung#1234</span>
+  </div>
 
   <!-- Slack -->
-  <a href="https://slack.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo" />
-  </a>
+  <div>
+    <a href="https://slack.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo" />
+    </a>
+    <span>Slack</span>
+  </div>
 </div>
+
 
 
 ###
