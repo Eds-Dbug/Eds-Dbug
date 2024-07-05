@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">Hello, my name is Edgar Leung. I am a Web Developer based in Toronto, Ontario, passionate about crafting impactful solutions in both UI and back-end development. Formerly at Sofvie Inc, I specialized in applications for blue-collar workers in the HVAC industry. Currently, I am volunteering, contributing to open-source projects, and serving part-time in the Canadian Army. Outside of coding, you'll find me embracing the outdoors through hiking and cycling—I once rode over 1100km around Lake Ontario! My experiences inspire my work and drive my commitment to building better web environments. Let's collaborate!
+<p align="left">HHello, my name is Edgar Leung. I am a Web Developer based in Toronto, Ontario, passionate about crafting impactful UI and back-end solutions. At Sofvie Inc, I specialized in applications for blue-collar workers in the HVAC industry. Outside of coding, I enjoy hiking and cycling—I once rode over 1100km around Lake Ontario! My experiences inspire my work and drive my commitment to building better web environments. Let's collaborate!
 </p>
 <details>
 <summary><strong>Show More</strong></summary>
