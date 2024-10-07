@@ -2,9 +2,9 @@
   <h3>Contact Me:</h3>
 
   <!-- Projects Link -->
-  <div>
+  <!-- <div>
     👨‍💻 My profile Website @ <a href="http://Edgar-Leung.com" target="_blank">Edgar-Leung.com</a>
-  </div>
+  </div> -->
 
   <!-- Email Address -->
   <div>
