@@ -86,7 +86,7 @@ My coding journey began in high school robotics, igniting a lifelong passion for
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo" />
+  <img src="https://en.m.wikipedia.org/wiki/File:Amazon_Web_Services_Logo.svg" height="40" alt="AWS logo" />
   <img width="12" />
 
   <img width="12" />
