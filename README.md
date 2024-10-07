@@ -43,24 +43,19 @@
 
 ###
 
-<p align="left">Hello, my name is Edgar Leung. I am a Web Developer based in Toronto, Ontario, passionate about crafting impactful UI and back-end solutions. At Sofvie Inc, I specialized in applications for blue-collar workers in the HVAC industry. Outside of coding, I enjoy hiking and cycling—I once rode over 1100km around Lake Ontario! My experiences inspire my work and drive my commitment to building better web environments. Let's collaborate!
+<p align="left">Hello, my name is Edgar Leung. I'm a Full Stack Developer based in Toronto, ON, with a passion for building responsive and scalable web applications. I specialize in creating user-friendly interfaces and efficient back-end systems, with experience improving CI/CD processes and deploying applications using AWS and Docker. Outside of development, I love cycling and hiking—once biking over 1100km around Lake Ontario! Let's collaborate and create something impactful together.
 </p>
 <details>
 <summary><strong>Show More</strong></summary>
 
-Having a strong ability to learn quickly and adapt with minimal guidance, I have successfully tackled new challenges throughout my career. At Open Library, despite knowing the MVC pattern, I delved into their specific MVC architecture through self-directed tutorials and practical involvement in projects. This proactive approach allowed me to efficiently contribute to their merge queue project while managing a second job. My communication with lead developers and my commitment to solving intricate problems were crucial in my rapid adaptation and effective contribution.
+In one of my recent roles, I rapidly acquired industry-specific knowledge, which I translated into developing intuitive and effective applications for end-users. By immersing myself in design documents and collaborating with stakeholders, I was able to deliver results that met both business and user needs.
 
-Similarly, at Sofvie, I did not start with a background in the HVAC field. Yet, I rapidly acquired in-depth knowledge about the HVAC industry, including understanding complex aspects like refrigerant specifications. I achieved this through meticulous review of design documents and engaging directly with technical descriptions in trade biographies, enabling me to develop applications that were both functional and intuitive for end-users.
-
-These experiences underscore my capability to quickly integrate into new environments, learn essential aspects with little oversight, and produce high-quality work. Skilled in JavaScript, React.js, Node.js, and more, I am eager to bring my adaptability, problem-solving skills, and collaborative spirit to your projects.
-
+I thrive in environments where I can quickly integrate, learn new skills, and make a difference through problem-solving and teamwork. With experience in JavaScript, React.js, Node.js, and more, I'm excited to bring my adaptability and expertise to new challenges.
 <details>
 <summary><strong>Coding Journey</strong></summary>
 
-My journey into coding started during my high school days in robotics. Despite embarking on thrilling road adventures and exploring various opportunities, the persistent urge to code never left me. Coming back to my coding journey, I enhanced my skills at Lighthouse Labs, where I learned MVC and Full Stack development. Through self-directed learning, I have also added TypeScript, React, and Python to my skill set. Coming from a Java background, I am now diving deeper into Spring Boot to expand my full-stack capabilities further. Combining my experiences and expertise, I'm dedicated to creating innovative solutions that push boundaries and drive technological advancement.
-
+My coding journey began in high school robotics, igniting a lifelong passion for problem-solving through technology. After exploring various opportunities, I found myself continually drawn back to coding, enhancing my skills through full-stack development programs where I learned MVC architecture and other industry-standard methodologies. Since then, I’ve expanded my skill set through self-directed learning, diving into technologies like TypeScript, React, and Python. Building on my foundation in Java, I'm currently deepening my knowledge in Spring Boot to broaden my full-stack capabilities. My journey has been a continuous pursuit of growth and innovation, and I'm eager to continue pushing boundaries in the tech space.
 </details>
-
 </details>
 
 ###
@@ -69,7 +64,7 @@ My journey into coding started during my high school days in robotics. Despite e
 
 ###
 
-<p align="left">💻Solve programming problems<br>🚲Long distance bicycling<br>🥾Hiking<br>📖Reading novels<br>⚔️Chivalry 2 (Game)</p>
+<p align="left">💻Programming<br>🚲Long distance bicycling<br>🥾Hiking<br>🥾Camping<br>📖Reading novels<br>⚔️Weekend Warrior</p>
 
 ###
 
