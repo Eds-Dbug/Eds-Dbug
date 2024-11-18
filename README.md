@@ -14,7 +14,7 @@
 
 ## 👋 **Hello**
 <br>
-<img align="right" height="180" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/CC_2022-06-18_193-Pano_%28cropped%29_01.jpg/1024px-CC_2022-06-18_193-Pano_%28cropped%29_01.jpg" />
+<img align="right" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/CC_2022-06-18_193-Pano_%28cropped%29_01.jpg/1024px-CC_2022-06-18_193-Pano_%28cropped%29_01.jpg" />
 
 <p align="left">
 I’m a resilient Full Stack Developer based in Toronto, ON, with a knack for energizing teams and delivering polished, scalable web applications. My journey began in high school robotics, where solving problems through code sparked a passion that followed me into the Army. Under the demands of training, I developed the discipline and adaptability that now define my approach to development. One of my most rewarding challenges was building a daycare search platform, which ranked 3rd among investor-evaluated startups. With every project, I strive to create applications that solve real-world problems, inspire users, and leave a lasting impact. <strong>If you’re ready to turn ambitious ideas into impactful applications, let’s create something extraordinary together.</strong>
@@ -23,7 +23,7 @@ I’m a resilient Full Stack Developer based in Toronto, ON, with a knack for en
 
 ## 💻 **What drives me**
 <br>
-<img align="right" width="350" height="180" src="https://media.licdn.com/dms/image/v2/D4D12AQH7p3t4DT8LKg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1686832380307?e=1737590400&v=beta&t=yBcGbg2N7dPfXkP0XxNoCM0YdyPF8yRCg5eslXe0b4k" />
+<img align="right" width="350" height="200" src="https://media.licdn.com/dms/image/v2/D4D12AQH7p3t4DT8LKg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1686832380307?e=1737590400&v=beta&t=yBcGbg2N7dPfXkP0XxNoCM0YdyPF8yRCg5eslXe0b4k" />
 
 <p align="left">
 The pivotal moment came during Army bootcamp, when a friend—a philosophy major—asked me to create a portfolio website for them. Juggling rigorous training schedules, I couldn’t deliver on the promise. That experience left me with a realization: I wanted to create meaningful applications that help others achieve their goals. My determination has since driven me to continually grow as a developer.
@@ -32,7 +32,7 @@ The pivotal moment came during Army bootcamp, when a friend—a philosophy major
 
 ## 🌟 **Career Highlights**
 <br>
-<img align="right" width="350" height="180" src="https://trustytots.ca/logo/logo_blue.svg" />
+<img align="right" width="350" height="200" src="https://trustytots.ca/logo/logo_blue.svg" />
 
 <ul align="left">
   <li>Led the development of a daycare MVP that boosted user engagement by 20%.</li>
@@ -47,7 +47,7 @@ Each of these accomplishments reflects my ability to combine technical expertise
 
 ## 🎯 **Why I stand out**
 <br>
-<img align="right" height="180"  src="https://media.gettyimages.com/id/2163556089/photo/members-of-the-canadian-army-are-posing-for-photos-with-festival-goers-during-the-unionville.jpg?s=612x612&w=gi&k=20&c=ne7B89mIxmnIsqM2NNKOLZQMoKCVDvrLoCFuPGEMhp4=" />
+<img align="right" height="200"  src="https://media.gettyimages.com/id/2163556089/photo/members-of-the-canadian-army-are-posing-for-photos-with-festival-goers-during-the-unionville.jpg?s=612x612&w=gi&k=20&c=ne7B89mIxmnIsqM2NNKOLZQMoKCVDvrLoCFuPGEMhp4=" />
 
 <p align="left">
 As an Army Reservist, I bring leadership, adaptability, and teamwork to every challenge. These qualities have shaped how I tackle development projects—methodically, strategically, and with resilience. These experiences not only shape how I approach my work but also how I pursue my passions outside of development.  
@@ -56,7 +56,7 @@ As an Army Reservist, I bring leadership, adaptability, and teamwork to every ch
 
 ## 🚴 **Outside of coding**
 <br>
-<img align="right" height="180"  src="https://girodilento.com/wp-content/uploads/2020/07/TCX_ADV_Pro_gallery01-1024x682.jpg" />
+<img align="right" height="200"  src="https://girodilento.com/wp-content/uploads/2020/07/TCX_ADV_Pro_gallery01-1024x682.jpg" />
 
 <p align="left">
 When I’m not coding, you’ll find me cycling (once biking 1,100 km around Lake Ontario), hiking, or painting custom Warhammer miniatures for my snowy, green-glowing Necron dynasty. I’m also an avid reader and camper, and I love taking on outdoor challenges as a weekend warrior. These hobbies fuel my creativity and remind me that even the smallest details contribute to the bigger picture. Feel free to reach out if you’d like to chat about tech, creativity, or even cycling adventures—I’d be happy to collaborate or share ideas!
