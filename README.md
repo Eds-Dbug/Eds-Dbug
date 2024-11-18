@@ -43,19 +43,41 @@
 
 ###
 
-<p align="left">Hello, my name is Edgar Leung. I'm a Full Stack Developer based in Toronto, ON, with a passion for building responsive and scalable web applications. I specialize in creating user-friendly interfaces and efficient back-end systems, with experience improving CI/CD processes and deploying applications using AWS and Docker. Outside of development, I love cycling and hiking—once biking over 1100km around Lake Ontario! Let's collaborate and create something impactful together.
+<p align="left">👋 Hello! I’m Edgar Leung
+I’m a Full Stack Developer based in Toronto, ON, with a passion for crafting responsive and scalable web applications. My journey started in high school robotics, sparking a love for solving problems through code that’s only grown stronger. Over the years, I’ve built platforms that blend functionality with creativity, like Trustytots, where I helped launch an MVP for the $17.88 billion Canadian childcare services market, or the redesign of librarian tools that boosted productivity by 25%.
 </p>
 <details>
 <summary><strong>Show More</strong></summary>
 
-In one of my recent roles, I rapidly acquired industry-specific knowledge, which I translated into developing intuitive and effective applications for end-users. By immersing myself in design documents and collaborating with stakeholders, I was able to deliver results that met both business and user needs.
+💻 What I do best:
 
-I thrive in environments where I can quickly integrate, learn new skills, and make a difference through problem-solving and teamwork. With experience in JavaScript, React.js, Node.js, and more, I'm excited to bring my adaptability and expertise to new challenges.
+Building user-friendly interfaces with frameworks like React, Next.js, and Tailwind.
+Developing scalable backends using Node.js, MongoDB, and API integrations like Twilio and Stripe.
+Enhancing CI/CD pipelines and deploying applications with AWS and Docker.
+
+🎯 Why I stand out:
+In addition to being a developer, I’m also a proud Army Reservist, where I’ve honed skills in leadership, adaptability, and teamwork under pressure. This experience shapes how I approach challenges—methodically, strategically, and with resilience.
+
+🌟 Highlights from my career so far:
+
+Designing visually cohesive UIs from Figma to deployment, improving engagement rates by up to 20%.
+Spearheading real-time communication systems supporting thousands of users.
+Quickly mastering new technologies like Flask and TypeScript to meet evolving project demands.
+
+🚴 Outside of coding:
+When I’m not at my keyboard, you can find me cycling (like that time I biked over 1,100 km around Lake Ontario), hiking, or painting custom Warhammer miniatures for my snowy, green-glowing Necron dynasty.
+
+
 <details>
 <summary><strong>Coding Journey</strong></summary>
 
-My coding journey began in high school robotics, igniting a lifelong passion for problem-solving through technology. After exploring various opportunities, I found myself continually drawn back to coding, enhancing my skills through full-stack development programs where I learned MVC architecture and other industry-standard methodologies. Since then, I’ve expanded my skill set through self-directed learning, diving into technologies like TypeScript, React, and Python. Building on my foundation in Java, I'm currently deepening my knowledge in Spring Boot to broaden my full-stack capabilities. My journey has been a continuous pursuit of growth and innovation, and I'm eager to continue pushing boundaries in the tech space.
+My coding journey began in high school robotics, igniting a lifelong passion for problem-solving through technology. I dabbled in different fields over the years, but the biggest pivotal moment came during Army bootcamp. A friend, a philosophy major, asked me to create a portfolio website for them—a simple request, yet one that stuck with me.  
+
+At the time, I couldn’t deliver on that promise, and it left me feeling unfulfilled. That lingering feeling planted a seed. I realized how much I wanted to build something meaningful—not just for myself, but for others. It reignited my passion for coding, inspiring me to dive into full-stack web development with renewed determination.
+
+Since then, I’ve immersed myself in learning, mastering technologies like TypeScript, React, and Python, while building my foundation with frameworks like Spring Boot. What began as a missed opportunity has now turned into a career driven by creativity, innovation, and the joy of bringing ideas to life. I’m eager to continue this journey, creating applications that leave a lasting impact.
 </details>
+
 </details>
 
 ###
