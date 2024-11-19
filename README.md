@@ -47,7 +47,7 @@ Each of these accomplishments reflects my ability to combine technical expertise
 
 ## 🎯 **Why I stand out**
 <br>
-<img align="right"  height="250" src="https://media.gettyimages.com/id/2163556089/photo/members-of-the-canadian-army-are-posing-for-photos-with-festival-goers-during-the-unionville.jpg?s=612x612&w=gi&k=20&c=ne7B89mIxmnIsqM2NNKOLZQMoKCVDvrLoCFuPGEMhp4=" />
+<img align="right" height="250" src="https://media.gettyimages.com/id/2163556089/photo/members-of-the-canadian-army-are-posing-for-photos-with-festival-goers-during-the-unionville.jpg?s=612x612&w=gi&k=20&c=ne7B89mIxmnIsqM2NNKOLZQMoKCVDvrLoCFuPGEMhp4=" />
 
 <p align="left">
 As an Army Reservist, I bring leadership, adaptability, and teamwork to every challenge. These qualities have shaped how I tackle development projects—methodically, strategically, and with resilience. These experiences not only shape how I approach my work but also how I pursue my passions outside of development.  
