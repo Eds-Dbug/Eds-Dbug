@@ -31,18 +31,20 @@ The pivotal moment came during Army bootcamp, when a friend—a philosophy major
 <br><br>
 
 ## 🌟 **Career Highlights**
-<br>
-<img align="right" width="370" height="200" src="https://trustytots.ca/logo/logo_blue.svg" />
+
+<img align="right" width="370" src="https://s26162.pcdn.co/wp-content/uploads/2024/09/internet-archive-loses-court-appeal-publishers-feature-e1725565795208.jpg" />
 
 <ul align="left">
   <li>Led the development of a daycare MVP that boosted user engagement by 20%.</li>
-  <li>Redesigned librarian tools, increasing productivity by 25%.</li>
   <li>Mastered Flask and TypeScript under tight deadlines to deliver innovative, scalable solutions.</li>
+  <li><strong>Redesigned librarian tools</strong>, enhancing usability and boosting productivity by 25%. You can <a href="https://openlibrary.org/merges" target="_blank">view the platform here</a>.</li>
 </ul>
+
 <p align="left">
 Each of these accomplishments reflects my ability to combine technical expertise with a user-first mindset, delivering impactful solutions that meet business goals.
 </p>
-<br>
+
+
 
 
 ## 🎯 **Why I stand out**
