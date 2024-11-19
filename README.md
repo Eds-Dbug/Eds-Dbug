@@ -47,21 +47,21 @@ Each of these accomplishments reflects my ability to combine technical expertise
 
 ## 🎯 **Why I stand out**
 <br>
-<img align="right" height="200"  src="https://media.gettyimages.com/id/2163556089/photo/members-of-the-canadian-army-are-posing-for-photos-with-festival-goers-during-the-unionville.jpg?s=612x612&w=gi&k=20&c=ne7B89mIxmnIsqM2NNKOLZQMoKCVDvrLoCFuPGEMhp4=" />
+<img align="right" height="250"  src="https://media.gettyimages.com/id/2163556089/photo/members-of-the-canadian-army-are-posing-for-photos-with-festival-goers-during-the-unionville.jpg?s=612x612&w=gi&k=20&c=ne7B89mIxmnIsqM2NNKOLZQMoKCVDvrLoCFuPGEMhp4=" />
 
 <p align="left">
 As an Army Reservist, I bring leadership, adaptability, and teamwork to every challenge. These qualities have shaped how I tackle development projects—methodically, strategically, and with resilience. These experiences not only shape how I approach my work but also how I pursue my passions outside of development.  
 </p>
-<br><br>
+<br><br><br><br>
 
 ## 🚴 **Outside of coding**
 <br>
-<img align="right" height="200"  src="https://girodilento.com/wp-content/uploads/2020/07/TCX_ADV_Pro_gallery01-1024x682.jpg" />
+<img align="right" height="250" src="https://girodilento.com/wp-content/uploads/2020/07/TCX_ADV_Pro_gallery01-1024x682.jpg" />
 
 <p align="left">
 When I’m not coding, you’ll find me cycling (once biking 1,100 km around Lake Ontario), hiking, or painting custom Warhammer miniatures for my snowy, green-glowing Necron dynasty. I’m also an avid reader and camper, and I love taking on outdoor challenges as a weekend warrior. These hobbies fuel my creativity and remind me that even the smallest details contribute to the bigger picture. Feel free to reach out if you’d like to chat about tech, creativity, or even cycling adventures—I’d be happy to collaborate or share ideas!
 </p>
-<br>
+<br><br>
 
 ---
 
